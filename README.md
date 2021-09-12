@@ -6,6 +6,7 @@ To build, run
 npm install
 webpack
 ```
+and check out `dist/bundle.js`.
 
 Try this with example codes at Twitch developer docs (https://dev.twitch.tv/docs/embed/video-and-clips).
 

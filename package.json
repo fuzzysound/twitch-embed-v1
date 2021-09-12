@@ -1,0 +1,23 @@
+{
+  "name": "twitch-embed-v1",
+  "version": "1.0.0",
+  "description": "A reverse engineering of twitch embed script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitch"
+  ],
+  "author": "fuzzysound",
+  "devDependencies": {
+    "@babel/cli": "^7.15.4",
+    "@babel/core": "^7.15.5",
+    "@babel/plugin-proposal-class-properties": "^7.14.5",
+    "@babel/preset-env": "^7.15.6",
+    "babel-loader": "^8.2.2",
+    "eslint": "^7.32.0",
+    "webpack": "^5.52.1",
+    "webpack-cli": "^4.8.0"
+  }
+}
